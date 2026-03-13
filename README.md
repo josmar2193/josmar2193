@@ -3,7 +3,7 @@
 ## Hi, I'm Josmar Martinez
 About me
 
-I’m a Quality Assurance Test Engineer with experience on automation testing where my main objective is the creation and execution of test cases on the web, iOS or android devices working with CI/CD through of the user stories/user requirements and through test cases I executed in all possible scenarios to identify the bugs on time before  version goes out of production 
+I’m a Quality Assurance Test Engineer with experience on automation testing where my main objective is the creation and execution of test cases for iOS and android devices and web main apps besides working with CI/CD through of the user stories/user requirements and through test cases I executed in all possible scenarios to identify the bugs on time before  version goes out of production 
 
 -------------------
 ### Languages and Tools  
